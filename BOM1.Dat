@@ -1,0 +1,116 @@
+﻿Field=ItemType~String~ItemType~100|Field=DesignItemId~String~DesignItemId~200|Field=Description~String~Description~300|Field=Designator~String~Designator~174|Field=Comment~String~Comment~200|Field=Quantity~Integer~Quantity~70|Field=Digi-Key Part Number~String~Digi-Key Part Number~100|Field=PartNumber~String~PartNumber~78|Field=Supplier~String~Supplier~78|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~BBiQ.PrjPcb|ReportField=ProjectFullPath~F:\DESIGN\BBiQ\BBiQ.PrjPcb|ReportField=Title~Bill of Materials For BOM Document [BOM1.BomDoc]|ReportField=TotalQuantity~115|ReportField=ReportTime~8:19:42 AM|ReportField=ReportDate~3/28/2016|ReportField=ReportDateTime~3/28/2016 8:19:42 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~BOM1.BomDoc|ReportField=DataSourceFullPath~F:\DESIGN\BBiQ\BOM1.BomDoc
+Core-UnManaged|Antenna||U4|Antenna|1|||
+Core-UnManaged|USB_M||USB1|USB_M|1|||
+Core-UnManaged|NCP1117|1000mA Low-Dropout Positive Fixed and Adjustable Voltage Regulators|U2|NCP1117|1|||
+Core-UnManaged|MKL27Z64VLH4|ARM cortex M0+ 64Kb Flash LQFP-64|U3|MKL27Z64VLH4|1|||
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C6|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C7|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C8|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C9|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C10|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C11|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C12|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C13|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C14|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C15|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C16|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C17|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C18|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C19|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|Cap_0603|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C20|0603YC104JAT2A|1||0603YC104JAT2A|
+Core-UnManaged|C_293D107X96R3B2TE3|CAP, TANT, 100uF, 6.3V, +/-10%, 1.7 ohm, 3528-21 SMD|C3|293D107X96R3B2TE3|1||293D107X96R3B2TE3|
+Core-UnManaged|Cap 0805|Ceramic|C1|1uF|1|||
+Core-UnManaged|Cap 0805|Ceramic|C2|2.2uF|1|||
+Core-UnManaged|Cap 0805|Ceramic|C4|103|1|||
+Core-UnManaged|Cap 0805|Ceramic|C5|103|1|||
+Core-UnManaged|Cap 0805|Ceramic|C21|10uF|1|||
+Core-UnManaged|Cap 0805|Ceramic|C22|0.1uF|1|||
+Core-UnManaged|Cap 0805|Ceramic|C23|0.1uF|1|||
+Core-UnManaged|Cap 0805|Ceramic|C24|10pF|1|||
+Core-UnManaged|Cap 0805|Ceramic|C25|10pF|1|||
+Core-UnManaged|Cap 0805|Ceramic|C26|0.1uF|1|||
+Core-UnManaged|ESP8266EX|ESP8266EX Espressif Systems|U5|ESP8266EX|1|||
+Core-UnManaged|Header 2X1|Header, 2-Pin|P2|Mono Audio|1|||
+Core-UnManaged|Header 2X1|Header, 2-Pin|P3|Mono Audio|1|||
+Core-UnManaged|Header 2X1|Header, 2-Pin|P4|Mono Audio|1|||
+Core-UnManaged|Header 2X1|Header, 2-Pin|P6|Mono Audio|1|||
+Core-UnManaged|Header 3|Header, 3-Pin|P5|Header 3|1|||
+Core-UnManaged|Header 3H|Header, 3-Pin, Right Angle|P1|Header 3H|1|||
+Core-UnManaged|Header 5|Header, 5-Pin|P7|Header 5|1|||
+Core-UnManaged|Header 5|Header, 5-Pin|P8|Header 5|1|||
+Core-UnManaged|W25Q80DV|IC FLASH 8MBIT 104MHZ 8SOIC|U6|W25Q80DV|1|W25Q80DVSSIG-ND||
+Core-UnManaged|923345-02-C|Jumper Wire, 200mil spacing, Red, pkg of 200|J6|Power Selection|1||923345-02-C|
+Core-UnManaged|923345-02-C|Jumper Wire, 200mil spacing, Red, pkg of 200|J7|DeepSleep|1||923345-02-C|
+Core-UnManaged|LEDSMD|LED SMD|LED3|Green|1|||
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|L1|CRCW08051K00JNEA|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|L2|CRCW08051K00JNEA|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R1|1.5k|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R2|1.5k|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R3|10k|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R4|10k|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R5|10k|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R6|10k|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R7|10k|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R16|CRCW08051K00JNEA|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R17|CRCW08051K00JNEA|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R18|CRCW08051K00JNEA|1||CRCW08051K00JNEA|
+Core-UnManaged|R0805_025W|RES 5%, 0.125W, 0805|R19|CRCW08051K00JNEA|1||CRCW08051K00JNEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R8|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R9|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R10|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R11|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R12|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R13|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R14|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R15|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R20|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R21|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R22|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R23|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R24|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R25|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R26|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R27|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R28|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|R0603|RES, 1.00k ohm, 1%, 0.1W, 0603|R29|CRCW06031K00FKEA|1||CRCW06031K00FKEA|
+Core-UnManaged|BQ24090DGQR|Single Cell Li-Ion and Li-Pol Battery Charger|U1|BQ24090DGQR|1||BQ24090DGQR|
+Core-UnManaged|TP|Test point (true)|J1|TP|1|||
+Core-UnManaged|TP|Test point (true)|J2|TP|1|||
+Core-UnManaged|TP|Test point (true)|J3|TP|1|||
+Core-UnManaged|TP|Test point (true)|J4|TP|1|||
+Core-UnManaged|TP|Test point (true)|J5|TP|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED1|LED|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED2|LED|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED4|A|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED5|A|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED6|A|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED7|f|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED8|B|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED9|f|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED10|B|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED11|f|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED12|B|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED13|g|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED14|g|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED15|g|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED16|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED17|C|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED18|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED19|C|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED20|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED21|C|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED22|D|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED23|D|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED24|D|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED25|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED26|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED27|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED28|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED29|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED30|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED31|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED32|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED33|E|1|||
+Core-UnManaged|LED|Typical INFRARED GaAs LED|LED34|E|1|||
+Core-UnManaged||XTAL SMD 2520, 16MHz, 8pF, ±40ppm|X2|26MHz|1|||Digi-Key
+Core-UnManaged||XTAL SMD 3215, 32.768kHz, 9pF, ±20ppm|X1|32.768KHZ|1|||Digi-Key

@@ -1,0 +1,38 @@
+﻿Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Price (1k-$)~String~Price (1k-$)~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~BBiQ.PrjPcb|ReportField=ProjectFullPath~F:\DESIGN\BBiQ\BBiQ.PrjPcb|ReportField=Title~Bill of Materials For Project [BBiQ.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~115|ReportField=ReportTime~8:27:11 AM|ReportField=ReportDate~3/28/2016|ReportField=ReportDateTime~3/28/2016 8:27:11 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~3/28/2016|ReportField=CurrentTime~8:13:49 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\DESIGN\BBiQ\[1]-Cover.SchDoc|ReportField=DocumentName~[1]-Cover.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~3/28/2016|ReportField=Organization~|ReportField=ProjectName~BBiQ.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~BBiQ.PrjPcb|ReportField=DataSourceFullPath~F:\DESIGN\BBiQ\BBiQ.PrjPcb
+1uF|Ceramic|C1|0805|Cap 0805||1|
+2.2uF|Ceramic|C2|0805|Cap 0805||1|
+293D107X96R3B2TE3|CAP, TANT, 100uF, 6.3V, +/-10%, 1.7 ohm, 3528-21 SMD|C3|3528-21|C_293D107X96R3B2TE3||1|100uF
+103|Ceramic|C4, C5|0805|Cap 0805||2|
+0603YC104JAT2A|CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603|C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20|0603|Cap_0603||15|0.1uF
+10uF|Ceramic|C21|0805|Cap 0805||1|
+0.1uF|Ceramic|C22, C23, C26|0805|Cap 0805||3|
+10pF|Ceramic|C24, C25|0805|Cap 0805||2|
+TP|Test point (true)|J1, J2, J3, J4, J5|TP|TP||5|
+Power Selection|Jumper Wire, 200mil spacing, Red, pkg of 200|J6|923345-02-C|923345-02-C||1|
+DeepSleep|Jumper Wire, 200mil spacing, Red, pkg of 200|J7|923345-02-C|923345-02-C||1|
+CRCW08051K00JNEA|RES 5%, 0.125W, 0805|L1, L2, R16, R17, R18, R19|0805|R0805_025W||6|3.3uH, 3.3uH, 10k, 10k, 200R, 12k 0603
+LED|Typical INFRARED GaAs LED|LED1, LED2|LED-0603-YELLOW|LED||2|
+Green|LED SMD|LED3||LEDSMD||1|
+A|Typical INFRARED GaAs LED|LED4, LED5, LED6|LED-0603-WHITE|LED||3|
+f|Typical INFRARED GaAs LED|LED7, LED9, LED11|LED-0603-WHITE|LED||3|
+B|Typical INFRARED GaAs LED|LED8, LED10, LED12|LED-0603-WHITE|LED||3|
+g|Typical INFRARED GaAs LED|LED13, LED14, LED15|LED-0603-WHITE|LED||3|
+E|Typical INFRARED GaAs LED|LED16, LED18, LED20, LED25, LED26, LED27, LED28, LED29, LED30, LED31, LED32, LED33, LED34|LED-0603-WHITE|LED||13|
+C|Typical INFRARED GaAs LED|LED17, LED19, LED21|LED-0603-WHITE|LED||3|
+D|Typical INFRARED GaAs LED|LED22, LED23, LED24|LED-0603-WHITE|LED||3|
+Header 3H|Header, 3-Pin, Right Angle|P1|HDR1X3|Header 3H||1|
+Mono Audio|Header, 2-Pin|P2, P3, P4, P6|hdr1X2|Header 2X1||4|
+Header 3|Header, 3-Pin|P5|HDR1X3|Header 3||1|
+Header 5|Header, 5-Pin|P7, P8|HDR1X5|Header 5||2|
+1.5k|RES 5%, 0.125W, 0805|R1, R2|0805|R0805_025W||2|1.5k
+10k|RES 5%, 0.125W, 0805|R3, R4, R5, R6, R7|0805|R0805_025W||5|10k
+CRCW06031K00FKEA|RES, 1.00k ohm, 1%, 0.1W, 0603|R8, R9, R10, R11, R12, R13, R14, R15, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29|0603|R0603||18|Rs, Rp, Rs, Rp, Rs, Rp, Rs, Rp, Rs, Rs, Rs, Rs, 330R, Rs, Rs, Rs, Rs, Rs
+BQ24090DGQR|Single Cell Li-Ion and Li-Pol Battery Charger|U1|DGQ0010D_NV_N|BQ24090DGQR||1|Value
+NCP1117|1000mA Low-Dropout Positive Fixed and Adjustable Voltage Regulators|U2|SOT-223B_L|NCP1117|0.15686|1|Value
+MKL27Z64VLH4|ARM cortex M0+ 64Kb Flash LQFP-64|U3|98ASS23234W|MKL27Z64VLH4||1|Value
+Antenna||U4|ANT_F|Antenna||1|
+ESP8266EX|ESP8266EX Espressif Systems|U5|QFN32_ESP8266|ESP8266EX||1|Value
+W25Q80DV|IC FLASH 8MBIT 104MHZ 8SOIC|U6|SOIC8_208mil|W25Q80DV||1|Value
+USB_M||USB1|USB_MICRO_SMD|USB_M||1|
+32.768KHZ|XTAL SMD 3215, 32.768kHz, 9pF, ±20ppm|X1|XTAL_3215|||1|32.768kHz
+26MHz|XTAL SMD 2520, 16MHz, 8pF, ±40ppm|X2|BT-XTAL_3225|||1|26MHz

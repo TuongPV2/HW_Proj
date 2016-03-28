@@ -1,0 +1,49 @@
+Bill of Material for 
+On 3/28/2016 at 8:17:57 AM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               0805             3    C22, C23, C26                Ceramic              
+ 0603YC104JAT2A      0603            15    C6, C7, C8, C9, C10, C11, C12 CAP, CERM, 0.1uF, 16V, +/-5%, X7R, 0603 
+                                           C13, C14, C15, C16, C17, C18
+                                           C19, C20
+ 1.5k                0805             2    R1, R2                       RES 5%, 0.125W, 0805 
+ 103                 0805             2    C4, C5                       Ceramic              
+ 10k                 0805             5    R3, R4, R5, R6, R7           RES 5%, 0.125W, 0805 
+ 10pF                0805             2    C24, C25                     Ceramic              
+ 10uF                0805             1    C21                          Ceramic              
+ 1uF                 0805             1    C1                           Ceramic              
+ 2.2uF               0805             1    C2                           Ceramic              
+ 26MHz               BT-XTAL_3225     1    X2                           XTAL SMD 2520, 16MHz, 8pF, ±40ppm 
+ 293D107X96R3B2TE3   3528-21          1    C3                           CAP, TANT, 100uF, 6.3V, +/-10%, 1.7 ohm, 3528-21 SMD 
+ 32.768KHZ           XTAL_3215        1    X1                           XTAL SMD 3215, 32.768kHz, 9pF, ±20ppm 
+ A                   LED-0603-WHITE    3    LED4, LED5, LED6             Typical INFRARED GaAs LED 
+ Antenna             ANT_F            1    U4                                                
+ B                   LED-0603-WHITE    3    LED8, LED10, LED12           Typical INFRARED GaAs LED 
+ BQ24090DGQR         DGQ0010D_NV_N    1    U1                           Single Cell Li-Ion and Li-Pol Battery Charger 
+ C                   LED-0603-WHITE    3    LED17, LED19, LED21          Typical INFRARED GaAs LED 
+ CRCW06031K00FKEA    0603            18    R8, R9, R10, R11, R12, R13   RES, 1.00k ohm, 1%, 0.1W, 0603 
+                                           R14, R15, R20, R21, R22, R23
+                                           R24, R25, R26, R27, R28, R29
+ CRCW08051K00JNEA    0805             6    L1, L2, R16, R17, R18, R19   RES 5%, 0.125W, 0805 
+ D                   LED-0603-WHITE    3    LED22, LED23, LED24          Typical INFRARED GaAs LED 
+ DeepSleep           923345-02-C      1    J7                           Jumper Wire, 200mil spacing, Red, pkg of 200 
+ E                   LED-0603-WHITE   13    LED16, LED18, LED20, LED25   Typical INFRARED GaAs LED 
+                                           LED26, LED27, LED28, LED29
+                                           LED30, LED31, LED32, LED33
+                                           LED34
+ ESP8266EX           QFN32_ESP8266    1    U5                           ESP8266EX Espressif Systems 
+ f                   LED-0603-WHITE    3    LED7, LED9, LED11            Typical INFRARED GaAs LED 
+ g                   LED-0603-WHITE    3    LED13, LED14, LED15          Typical INFRARED GaAs LED 
+ Green                                1    LED3                         LED SMD              
+ Header 3            HDR1X3           1    P5                           Header, 3-Pin        
+ Header 3H           HDR1X3           1    P1                           Header, 3-Pin, Right Angle 
+ Header 5            HDR1X5           2    P7, P8                       Header, 5-Pin        
+ LED                 LED-0603-YELLOW    2    LED1, LED2                   Typical INFRARED GaAs LED 
+ MKL27Z64VLH4        98ASS23234W      1    U3                           ARM cortex M0+ 64Kb Flash LQFP-64 
+ Mono Audio          hdr1X2           4    P2, P3, P4, P6               Header, 2-Pin        
+ NCP1117             SOT-223B_L       1    U2                           1000mA Low-Dropout Positive Fixed and Adjustable Voltage Regulators 
+ Power Selection     923345-02-C      1    J6                           Jumper Wire, 200mil spacing, Red, pkg of 200 
+ TP                  TP               5    J1, J2, J3, J4, J5           Test point (true)    
+ USB_M               USB_MICRO_SMD    1    USB1                                              
+ W25Q80DV            SOIC8_208mil     1    U6                           IC FLASH 8MBIT 104MHZ 8SOIC 
