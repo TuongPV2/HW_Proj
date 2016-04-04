@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for BBiQ
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DPUNVPKK
 
 [Document6]
-DocumentPath=BOM1.BomDoc
+DocumentPath=BBiQ.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -144,10 +144,6 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for BBiQ\[3]-MCU.BOM
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for BBiQ\[3]-MCU.CSV
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -159,7 +155,7 @@ GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for BBiQ
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
